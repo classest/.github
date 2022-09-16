@@ -2,6 +2,8 @@
 
 ## About
 
+<p align="center"><img src="https://user-images.githubusercontent.com/1655312/190709006-1ba54b08-d104-4781-a187-6fde23f6bb9c.png"></p>
+
 #### More than a lesson! 🤩
 
 Classest is an online tutoring platform where the most suitable tutors in academic and pedagogical terms are determined for students, only tutors with high image and professional success are found, and long-term trainings are given with live lessons, exams and training coaching programs in the virtual environment developed by self.
