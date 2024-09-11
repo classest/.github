@@ -16,7 +16,3 @@ Classest is an online tutoring platform where the most suitable tutors in academ
 🟦 [LinkedIn](https://www.linkedin.com/company/classest)  
 🟣 [Instagram](https://instagram.com/theclassest)  
 🔷 [Twitter](https://twitter.com/theclassest)  
-
-## Team
-👨‍💻 [Fatih Koca (CEO)](https://linkedin.com/in/fattihkoca)  
-👩‍💻 [Tuğba Koca (COO)](https://linkedin.com/in/tubayraktarkoca)
